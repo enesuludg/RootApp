@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">RootChat</string>
+    <string name="register">Register</string>
+    <string name="sing_up">Sing Up</string>
+    <string name="sign_in">Sign In</string>
+    <string name="creat_new_account">Creat New Account</string>
+    <string name="username">Username</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
